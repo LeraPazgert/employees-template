@@ -1,5 +1,5 @@
 import { Component } from 'react';
-import './employees-add-form.css';
+import './employees-add-form.scss';
 import { v4 as uuidv4 } from 'uuid';
 
 
